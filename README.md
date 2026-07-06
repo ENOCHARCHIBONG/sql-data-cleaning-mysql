@@ -62,7 +62,10 @@ Employee records containing inconsistencies such as:
 - Data Transformation
 - Database Management
 
----
+<img width="1908" height="847" alt="1" src="https://github.com/user-attachments/assets/c332b6f0-bc00-4a0a-b4af-48a102e46820" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb52ea50-601d-4975-8fad-64d92d5ee34f" />
+
 
 By
 ENOCH ARCHIBONG
